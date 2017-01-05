@@ -1,2 +1,2 @@
 # Aquaria
-Aqua
+**Aqua** e **nitrato di sodio**
